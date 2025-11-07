@@ -21,7 +21,14 @@ Le projet repose sur un **notebook Jupyter unique (.ipynb)** qui regroupe l’en
 - **Visualisation des résultats** et interprétation du modèle  
 
 ---
+## Objectifs
+- Construire un modèle capable de reconnaître les lettres A–Z et chiffres 0–9 de la langue des signes.
+- Comparer les performances entre :
+   - un réseau de neurones convolutionnel (CNN) personnalisé,
+   - et un modèle pré-entraîné ResNet50 (transfer learning).
+- Obtenir une précision élevée tout en maintenant une exécution rapide et optimisée.
 
+---
 ## Technologies utilisées
 
 - Python 3.x  
