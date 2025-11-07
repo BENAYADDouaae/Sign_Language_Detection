@@ -32,18 +32,18 @@ Le projet repose sur un **notebook Jupyter unique (.ipynb)** qui regroupe l’en
 
 ---
 
-## 🚀 Exécution du projet
+## Exécution du projet
 
-Le projet est disponible sous forme d’un **notebook Jupyter interactif**.  
-Vous pouvez l’exécuter localement ou directement sur **Google Colab** sans installation préalable.
+Le projet est disponible sous forme d’un **notebook Jupyter interactif** hébergé sur **Kaggle**.  
+Vous pouvez l’exécuter directement en ligne sans aucune installation locale.
 
-➡️ [**Cliquez ici pour ouvrir dans Google Colab**](https://github.com/BENAYADDouaae/Sign_Language_Detection/blob/main/Sign_Language_Detection.ipynb)
+➡️ [**Cliquez ici pour ouvrir et exécuter le projet sur Kaggle**](https://www.kaggle.com/code/benayaddouaae/projet-sign-language/edit)
 
 ---
 
 ## Jeu de données utilisé
 
-Les données proviennent du dataset **American Sign Language (ASL)** disponible sur [American Sign Language Dataset – Kaggle](https://www.kaggle.com/datasets/ayuraj/asl-dataset) .  
+Les données proviennent du dataset **American Sign Language (ASL)** disponible sur [Lien](https://www.kaggle.com/datasets/ayuraj/asl-dataset) .  
 Elles comprennent :
 - Les **26 lettres** de l’alphabet (A–Z)
 - Les **10 chiffres** (0–9)
